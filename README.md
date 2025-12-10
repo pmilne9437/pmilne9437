@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Patrick, I'm currently learning Python
 <!--
 **pmilne9437/pmilne9437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
