@@ -1,5 +1,11 @@
 ## Hi there 👋
 My name is Patrick, I'm currently learning Python
+
+
+
+git add 00_markdown.ipynb
+git commit -m "Add first programs"
+git push
 <!--
 **pmilne9437/pmilne9437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
