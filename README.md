@@ -1,6 +1,8 @@
 ## Hi there 👋
 My name is Patrick, I'm currently learning Python
 
+My Profile picture is AI generated
+
 
 
 git add 00_markdown.ipynb
